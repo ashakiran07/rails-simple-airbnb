@@ -27,7 +27,7 @@ Delete: Users can also delete flats from the listing if they are no longer avail
 ## Show
 ![p3](https://user-images.githubusercontent.com/45171753/166428803-0702cf89-6caf-42d6-9053-35a7368d4e80.png)
 
-## Edit
+## Edit Form
 ![p4](https://user-images.githubusercontent.com/45171753/166428809-f2bab60b-1246-410e-9dbd-ffa7e7cf5de2.png)
 
 4. Seed Data:
