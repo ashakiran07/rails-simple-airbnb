@@ -1,5 +1,4 @@
 ## Simple AirBnB-like Rails Application
-
 This Rails application is designed to resemble Airbnb, allowing users to browse a list of flats and perform basic CRUD operations. Below are the key features and components of the application:
 
 ## 1. Home Page:
